@@ -1,0 +1,24 @@
+- task:     Labwork 3
+  start:    02-11-2019 10:00
+  deadline: 23-11-2019 10:00
+  score:    20
+
+- task:     Theory 2
+  start:    19-10-2019 10:00
+  deadline: 16-11-2019 10:00
+  score:    15
+
+- task:     Labwork 2
+  start:    05-10-2019 10:00
+  deadline: 26-10-2019 10:00
+  score:    20
+
+- task:     Theory 1
+  start:    14-09-2019 10:00
+  deadline: 12-10-2019 10:00
+  score:    15
+
+- task:     Labwork 1
+  start:    07-09-2020 10:00
+  deadline: 28-09-2019 10:00
+  score:    20
